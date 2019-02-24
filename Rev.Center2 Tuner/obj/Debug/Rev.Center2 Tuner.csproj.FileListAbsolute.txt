@@ -1,0 +1,25 @@
+C:\Users\elio1\source\repos\Rev.Center2 Tuner\Rev.Center2 Tuner\bin\Debug\Rev.Center2 Tuner.exe.config
+C:\Users\elio1\source\repos\Rev.Center2 Tuner\Rev.Center2 Tuner\bin\Debug\Rev.Center2 Tuner.exe
+C:\Users\elio1\source\repos\Rev.Center2 Tuner\Rev.Center2 Tuner\bin\Debug\Rev.Center2 Tuner.pdb
+C:\Users\elio1\source\repos\Rev.Center2 Tuner\Rev.Center2 Tuner\bin\Debug\IntelOverclockingSDK.dll
+C:\Users\elio1\source\repos\Rev.Center2 Tuner\Rev.Center2 Tuner\bin\Debug\MySettingDLL.dll
+C:\Users\elio1\source\repos\Rev.Center2 Tuner\Rev.Center2 Tuner\bin\Debug\ProfileHelperModel.dll
+C:\Users\elio1\source\repos\Rev.Center2 Tuner\Rev.Center2 Tuner\obj\Debug\Rev.Center2_Tuner.Properties.Resources.resources
+C:\Users\elio1\source\repos\Rev.Center2 Tuner\Rev.Center2 Tuner\obj\Debug\Rev.Center2 Tuner.csproj.GenerateResource.cache
+C:\Users\elio1\source\repos\Rev.Center2 Tuner\Rev.Center2 Tuner\obj\Debug\Rev.Center2 Tuner.csproj.CoreCompileInputs.cache
+C:\Users\elio1\source\repos\Rev.Center2 Tuner\Rev.Center2 Tuner\obj\Debug\Rev.Center2 Tuner.csproj.CopyComplete
+C:\Users\elio1\source\repos\Rev.Center2 Tuner\Rev.Center2 Tuner\obj\Debug\Rev.Center2 Tuner.exe
+C:\Users\elio1\source\repos\Rev.Center2 Tuner\Rev.Center2 Tuner\obj\Debug\Rev.Center2 Tuner.pdb
+C:\Users\elio1\source\repos\Rev.Center2 Tuner\Rev.Center2 Tuner\obj\Debug\Rev.Center2 Tuner.csprojAssemblyReference.cache
+C:\Users\elio1\source\repos\Rev.Center2 Tuner v2\Rev.Center2 Tuner\bin\Debug\Rev.Center2 Tuner.exe.config
+C:\Users\elio1\source\repos\Rev.Center2 Tuner v2\Rev.Center2 Tuner\bin\Debug\Rev.Center2 Tuner.exe
+C:\Users\elio1\source\repos\Rev.Center2 Tuner v2\Rev.Center2 Tuner\bin\Debug\Rev.Center2 Tuner.pdb
+C:\Users\elio1\source\repos\Rev.Center2 Tuner v2\Rev.Center2 Tuner\bin\Debug\IntelOverclockingSDK.dll
+C:\Users\elio1\source\repos\Rev.Center2 Tuner v2\Rev.Center2 Tuner\bin\Debug\ProfileHelperModel.dll
+C:\Users\elio1\source\repos\Rev.Center2 Tuner v2\Rev.Center2 Tuner\obj\Debug\Rev.Center2 Tuner.csprojAssemblyReference.cache
+C:\Users\elio1\source\repos\Rev.Center2 Tuner v2\Rev.Center2 Tuner\obj\Debug\Rev.Center2_Tuner.Properties.Resources.resources
+C:\Users\elio1\source\repos\Rev.Center2 Tuner v2\Rev.Center2 Tuner\obj\Debug\Rev.Center2 Tuner.csproj.GenerateResource.cache
+C:\Users\elio1\source\repos\Rev.Center2 Tuner v2\Rev.Center2 Tuner\obj\Debug\Rev.Center2 Tuner.csproj.CoreCompileInputs.cache
+C:\Users\elio1\source\repos\Rev.Center2 Tuner v2\Rev.Center2 Tuner\obj\Debug\Rev.Center2 Tuner.csproj.CopyComplete
+C:\Users\elio1\source\repos\Rev.Center2 Tuner v2\Rev.Center2 Tuner\obj\Debug\Rev.Center2 Tuner.exe
+C:\Users\elio1\source\repos\Rev.Center2 Tuner v2\Rev.Center2 Tuner\obj\Debug\Rev.Center2 Tuner.pdb
